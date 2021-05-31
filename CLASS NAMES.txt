@@ -1,0 +1,2 @@
+Title text: titleText
+Block of all contacts: contactList

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "picture": "C:\\fakepath\\_2017_11_25__camillapost_by_hyanna_natsu-dbwtovi.png",
+      "firstName": "thtrhtrh",
+      "lastName": "trhrttrh",
+      "address": "dasdfghj@asdfg",
+      "phone": "111-222-3333",
+      "id": 1
+    },
+    {
+      "picture": "C:\\fakepath\\20986949_434489533613545_5488094904292737024_n.jpg",
+      "firstName": "qwert",
+      "lastName": "wqeqw",
+      "address": "sda@sdjahsdh",
+      "phone": "111-333-2222",
+      "id": 2
+    },
+    {
+      "picture": "C:\\fakepath\\black-Robert-Kaufman-fabric-cute-planet-Space-Explorers-213666-1.jpg",
+      "firstName": "firstname",
+      "lastName": "lastname",
+      "address": "asdf@ghjkl",
+      "phone": "111-555-9999",
+      "id": 3
+    }
+  ]
+}
